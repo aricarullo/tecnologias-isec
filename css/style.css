@@ -1,0 +1,110 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+
+    background-color: rgb(126, 10, 10);
+
+  }
+
+  .section{
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    margin: 8%;
+
+   
+  }
+
+h1{
+    font-size: 50px;
+    color: antiquewhite;
+    text-align: center;
+
+}
+
+p{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.lista{
+
+    text-align: center;
+     list-style: none;
+     color: antiquewhite;
+     font-size: 20px;
+
+}
+
+
+h2{
+    font-size: 30px;
+    color: antiquewhite;
+    text-decoration: underline;
+    
+}
+
+
+img{
+width: 30%;
+padding: 30px;
+
+}
+
+.pie{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 30px;
+    height: 50px;
+    padding-top: 25px;
+}
+ 
+
+.link{
+    color: black;
+    font-weight: 700;
+
+}
+
+.contenedor {
+
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+
+
+    
+}
+
+.contenedor article{
+
+    width: 22%;
+ 
+}
+
+.contenedor article h1{
+    
+    font-size: 10px;
+    color: black;
+    font-weight: 600;
+    
+}
+
+.contenedor article p{
+
+    font-size: 10px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.img img{
+    width: 100%;
+}
