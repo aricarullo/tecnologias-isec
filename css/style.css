@@ -79,7 +79,7 @@ padding: 30px;
     background-color: bisque;
     display: flex;
     justify-content: space-between;
-
+    with: 100%;
 
     
 }
